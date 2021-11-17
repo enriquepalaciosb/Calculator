@@ -23,11 +23,8 @@ Project is created with:
 - Can add two numbers a user inputs and provide your BMI.
 
 ## Usage
-Demonstrate simple tasks by utilizng Node and Express.
-Must use the following package:
-
-`$ npm superheroes`
-`$ npm supervillains`
+Demonstrate simple tasks of adding and calculating the users BMI by utilizng Node and Express.
+Please check package for neccessary materials.
 
 
 ## Project Status
